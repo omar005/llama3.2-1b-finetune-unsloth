@@ -1,4 +1,4 @@
-**Slides and Notebook for the YouTube Video:**
+**The SLide and Notebook used for the YouTube Video:**
 
 
 *Fine-Tuning Explained: From Zero to Training Your Own Model for Free (Unsloth) شرح*
